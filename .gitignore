@@ -21,6 +21,8 @@ debian/vyatta-ravpn
 debian/vyatta-ravpn.postinst
 debian/*.debhelper.log
 debian/*.substvars
+debian/.debhelper/
+debian/changelog.*
 INSTALL
 Makefile.in
 Makefile
